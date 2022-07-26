@@ -55,7 +55,6 @@ public class BasicOutputInput {
         System.out.print(last4digits);
         System.out.println(".");
         System.out.println("Call now!");;
-
         return;
     }
 }
