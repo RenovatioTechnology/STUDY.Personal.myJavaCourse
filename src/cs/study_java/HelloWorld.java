@@ -6,6 +6,6 @@ public class HelloWorld {
        // Scanner scnr = new Scanner(System.in);
 
         System.out.print("Hello World");
-            }
+    }
 }
 
