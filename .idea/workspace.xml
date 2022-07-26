@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Basic input and output with format">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/BodyTemperatureEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Using built in data type math.abs to return absolute value" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BodyTemperatureEx">
+  <component name="RunManager" selected="Application.Calculations">
     <configuration name="AgeStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.AgeStats" />
       <module name="MyJava_class_work" />
@@ -80,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Calculations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.Calculations" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.HelloWorld" />
       <module name="MyJava_class_work" />
@@ -95,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculations" />
         <item itemvalue="Application.BodyTemperatureEx" />
         <item itemvalue="Application.BasicOutputInput" />
         <item itemvalue="Application.AgeStats" />
@@ -153,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658801434364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Using built in data type math.abs to return absolute value">
+      <created>1658802011774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658802011774</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +190,7 @@
     <MESSAGE value="Age stats added using if statements" />
     <MESSAGE value="Basic input and output with formate" />
     <MESSAGE value="Basic input and output with format" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic input and output with format" />
+    <MESSAGE value="Using built in data type math.abs to return absolute value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using built in data type math.abs to return absolute value" />
   </component>
 </project>
