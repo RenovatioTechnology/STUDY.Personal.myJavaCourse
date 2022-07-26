@@ -33,6 +33,5 @@ public class Calculations {
         System.out.println("Floating point division of " + userNum2 + " divided by " + (int) userNum + " is "
                 + (double) userNum2 / userNum);
 
-        return;
     }
 }
