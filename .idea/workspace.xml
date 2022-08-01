@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="The program get life expectancy  base on parameters set">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/LogicalTest.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="If statements check">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/MathMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LogicalTest">
-    <configuration name="CaptionPeriod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.CaptionPeriod" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MathFunctions">
     <configuration name="HighwayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.HighwayNumbers" />
       <module name="MyJava_class_work" />
@@ -108,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.MathFunctions" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathFunctions" />
         <item itemvalue="Application.LogicalTest" />
         <item itemvalue="Application.LifeExpectancyCalc" />
         <item itemvalue="Application.HousePrices" />
         <item itemvalue="Application.HighwayNumbers" />
-        <item itemvalue="Application.CaptionPeriod" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659385508020</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="If statements check">
+      <created>1659389203817</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1659389203817</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +367,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Age stats added using if statements" />
     <MESSAGE value="Basic input and output with formate" />
     <MESSAGE value="Basic input and output with format" />
     <MESSAGE value="Using built in data type math.abs to return absolute value" />
@@ -384,7 +391,8 @@
     <MESSAGE value="Statements for determining the direction" />
     <MESSAGE value="The program calculates the home price against the previous price." />
     <MESSAGE value="The program get life expectancy  base on parameters set" />
-    <option name="LAST_COMMIT_MESSAGE" value="The program get life expectancy  base on parameters set" />
+    <MESSAGE value="If statements check" />
+    <option name="LAST_COMMIT_MESSAGE" value="If statements check" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyJava_class_work$CoordinateGeometry.ic" NAME="CoordinateGeometry Coverage Results" MODIFIED="1659379386729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
