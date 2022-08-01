@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Formatting dog years and human years">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/DogYears.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Statements in comparison to  dog and human years">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/ExtractUsername.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DogYears">
-    <configuration name="CoordinateGeometry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.CoordinateGeometry" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExtractUsername">
     <configuration name="DetectWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.DetectWord" />
       <module name="MyJava_class_work" />
@@ -108,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExtractUsername" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.ExtractUsername" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtractUsername" />
         <item itemvalue="Application.DogYears" />
         <item itemvalue="Application.DogAgeFormat" />
         <item itemvalue="Application.DetermineLeapYears" />
         <item itemvalue="Application.DetectWord" />
-        <item itemvalue="Application.CoordinateGeometry" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659380542787</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Statements in comparison to  dog and human years">
+      <created>1659380810726</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1659380810726</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +329,8 @@
     <MESSAGE value="Coordinate Geometry" />
     <MESSAGE value="The program determine if input year is a leap or not." />
     <MESSAGE value="Formatting dog years and human years" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatting dog years and human years" />
+    <MESSAGE value="Statements in comparison to  dog and human years" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statements in comparison to  dog and human years" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyJava_class_work$CoordinateGeometry.ic" NAME="CoordinateGeometry Coverage Results" MODIFIED="1659379386729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
