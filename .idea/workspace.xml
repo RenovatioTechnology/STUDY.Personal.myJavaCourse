@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Coordinate Geometry">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/DetectWord.java" afterDir="false" />
-    </list>
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Coordinate Geometry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659379608891</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Coordinate Geometry">
+      <created>1659379866597</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1659379866597</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +294,7 @@
     <MESSAGE value="Testing conditional using ternary operator" />
     <MESSAGE value="Testing conditional statements of negative numbers." />
     <MESSAGE value="Testing conditional statements using switch" />
+    <MESSAGE value="Detect word on user input" />
     <MESSAGE value="Coordinate Geometry" />
     <option name="LAST_COMMIT_MESSAGE" value="Coordinate Geometry" />
   </component>
