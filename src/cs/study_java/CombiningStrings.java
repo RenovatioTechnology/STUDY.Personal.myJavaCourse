@@ -3,6 +3,7 @@ package cs.study_java;
 //Ex: If firstName is Barry and lastName is Allen, then output is:
 // Barry Allen
 import java.util.Scanner;
+
 public class CombiningStrings {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
