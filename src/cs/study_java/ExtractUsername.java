@@ -11,6 +11,7 @@ public class ExtractUsername {
         int atSymbolIndex;
         String emailUsername;
 
+
         System.out.print("Enter email address: ");
         emailText = scnr.nextLine();
 
