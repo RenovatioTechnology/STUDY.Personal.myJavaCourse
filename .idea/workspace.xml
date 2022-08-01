@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="detect that the first character of userInput matches firstLetter" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Set hasDigit to true if the 3-character passCode contains a digit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckingPasscodes">
+  <component name="RunManager" selected="Application.ConditionalTest">
     <configuration name="BasicOutputInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.BasicOutputInput" />
       <module name="MyJava_class_work" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombiningStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.CombiningStrings" />
+    <configuration name="ConditionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.ConditionalTest" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConditionalTest" />
         <item itemvalue="Application.CheckingPasscodes" />
         <item itemvalue="Application.CharMatching" />
         <item itemvalue="Application.BasicOutputInput" />
         <item itemvalue="Application.CensoredWords" />
-        <item itemvalue="Application.CombiningStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659378008769</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Set hasDigit to true if the 3-character passCode contains a digit.">
+      <created>1659378409120</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659378409120</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +252,7 @@
     <MESSAGE value="Assign secretID with firstName, a space, and lastName" />
     <MESSAGE value="Censored words on input" />
     <MESSAGE value="detect that the first character of userInput matches firstLetter" />
-    <option name="LAST_COMMIT_MESSAGE" value="detect that the first character of userInput matches firstLetter" />
+    <MESSAGE value="Set hasDigit to true if the 3-character passCode contains a digit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Set hasDigit to true if the 3-character passCode contains a digit." />
   </component>
 </project>
