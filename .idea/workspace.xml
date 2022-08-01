@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Testing conditional using ternary operator" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Testing conditional statements of negative numbers.">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/ConvertToGreek.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,20 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConvertNegative">
-    <configuration name="BasicOutputInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.BasicOutputInput" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConvertToGreek">
     <configuration name="CharMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CharMatching" />
       <module name="MyJava_class_work" />
@@ -103,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConvertToGreek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.ConvertToGreek" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertToGreek" />
         <item itemvalue="Application.ConvertNegative" />
         <item itemvalue="Application.ConditionalTest" />
         <item itemvalue="Application.CheckingPasscodes" />
         <item itemvalue="Application.CharMatching" />
-        <item itemvalue="Application.BasicOutputInput" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659378721473</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Testing conditional statements of negative numbers.">
+      <created>1659378910914</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659378910914</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +270,7 @@
     <MESSAGE value="detect that the first character of userInput matches firstLetter" />
     <MESSAGE value="Set hasDigit to true if the 3-character passCode contains a digit." />
     <MESSAGE value="Testing conditional using ternary operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing conditional using ternary operator" />
+    <MESSAGE value="Testing conditional statements of negative numbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing conditional statements of negative numbers." />
   </component>
 </project>
