@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Basic function / method calling">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/OrderStrings.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Compare strings and display base on alphabetical">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/Output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OrderStrings">
-    <configuration name="LogicalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.LogicalTest" />
+  <component name="RunManager" selected="Application.OutputFormatting">
+    <configuration name="OutputCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.OutputCombinations" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.MathFunctions" />
+    <configuration name="OutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.OutputFormatting" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsCallingMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.MethodsCallingMethods" />
+    <configuration name="OutsideTemperatureFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.OutsideTemperatureFormatting" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.NameSong" />
+    <configuration name="WordScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.WordScramble" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.OrderStrings" />
+    <configuration name="YearChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.YearChecker" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderStrings" />
-        <item itemvalue="Application.NameSong" />
-        <item itemvalue="Application.MethodsCallingMethods" />
-        <item itemvalue="Application.MathFunctions" />
-        <item itemvalue="Application.LogicalTest" />
+        <item itemvalue="Application.OutputFormatting" />
+        <item itemvalue="Application.OutputCombinations" />
+        <item itemvalue="Application.OutsideTemperatureFormatting" />
+        <item itemvalue="Application.YearChecker" />
+        <item itemvalue="Application.WordScramble" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659390245351</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Compare strings and display base on alphabetical">
+      <created>1659391363530</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1659391363530</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Using built in data type math.abs to return absolute value" />
     <MESSAGE value="Working with numbers and basic various calculations, square root etc." />
     <MESSAGE value="Finding the area of a circle from the circumference" />
     <MESSAGE value="Assign secretID with firstName, a space, and lastName" />
@@ -413,7 +419,29 @@
     <MESSAGE value="If statements check" />
     <MESSAGE value="Math functions" />
     <MESSAGE value="Basic function / method calling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic function / method calling" />
+    <MESSAGE value="Compare strings and display base on alphabetical" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compare strings and display base on alphabetical" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs/study_java/Sartup.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs/study_java/StringSize.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs/study_java/TicketPurchasesV2.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyJava_class_work$CoordinateGeometry.ic" NAME="CoordinateGeometry Coverage Results" MODIFIED="1659379386729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
