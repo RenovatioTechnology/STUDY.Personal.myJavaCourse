@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Finding the area of a circle from the circumference">
-      <change beforePath="$PROJECT_DIR$/src/cs/study_java/CombiningStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/study_java/CombiningStrings.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Assign secretID with firstName, a space, and lastName">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/CensoredWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CombiningStrings">
-    <configuration name="BodyTemperatureEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.BodyTemperatureEx" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CensoredWords">
     <configuration name="Calculations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.Calculations" />
       <module name="MyJava_class_work" />
@@ -68,6 +56,19 @@
     </configuration>
     <configuration name="CapitalizeStateAbbrev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CapitalizeStateAbbrev" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CensoredWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.CensoredWords" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CensoredWords" />
         <item itemvalue="Application.CombiningStrings" />
         <item itemvalue="Application.CircumferenceToArea" />
         <item itemvalue="Application.CapitalizeStateAbbrev" />
         <item itemvalue="Application.Calculations" />
-        <item itemvalue="Application.BodyTemperatureEx" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659376724667</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Assign secretID with firstName, a space, and lastName">
+      <created>1659376876079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376876079</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Assign secretID with firstName, a space, and lastName">
+      <created>1659376905189</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376905189</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +231,7 @@
     <MESSAGE value="Using built in data type math.abs to return absolute value" />
     <MESSAGE value="Working with numbers and basic various calculations, square root etc." />
     <MESSAGE value="Finding the area of a circle from the circumference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding the area of a circle from the circumference" />
+    <MESSAGE value="Assign secretID with firstName, a space, and lastName" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assign secretID with firstName, a space, and lastName" />
   </component>
 </project>
