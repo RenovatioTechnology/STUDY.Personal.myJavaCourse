@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Testing conditional statements of negative numbers.">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/ConvertToGreek.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Testing conditional statements using switch">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/CoordinateGeometry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConvertToGreek">
-    <configuration name="CharMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.CharMatching" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CoordinateGeometry">
     <configuration name="CheckingPasscodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CheckingPasscodes" />
       <module name="MyJava_class_work" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CoordinateGeometry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.CoordinateGeometry" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoordinateGeometry" />
         <item itemvalue="Application.ConvertToGreek" />
         <item itemvalue="Application.ConvertNegative" />
         <item itemvalue="Application.ConditionalTest" />
         <item itemvalue="Application.CheckingPasscodes" />
-        <item itemvalue="Application.CharMatching" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659378910914</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Testing conditional statements using switch">
+      <created>1659379229563</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1659379229563</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +278,7 @@
     <MESSAGE value="Set hasDigit to true if the 3-character passCode contains a digit." />
     <MESSAGE value="Testing conditional using ternary operator" />
     <MESSAGE value="Testing conditional statements of negative numbers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing conditional statements of negative numbers." />
+    <MESSAGE value="Testing conditional statements using switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing conditional statements using switch" />
   </component>
 </project>
