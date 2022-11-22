@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Output string message to the user using compareTo method.">
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Expending on previous Text Abbreviation program. By Output string message to the user using java data type replaceAll method.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,22 +43,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TextMsgAbbreviation">
+  <component name="RunManager" selected="Application.TextMsgExpander">
     <configuration name="CaptionFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CaptionFixer" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OutputCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.OutputCombinations" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextMsgExpander" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.TextMsgExpander" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextMsgExpander" />
         <item itemvalue="Application.TextMsgAbbreviation" />
         <item itemvalue="Application.StringFormatting" />
         <item itemvalue="Application.CaptionFixer" />
         <item itemvalue="Application.OutputFormatting" />
-        <item itemvalue="Application.OutputCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669078383985</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Output string message to the user using compareTo method.">
+      <created>1669078496741</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1669078496741</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Expending on previous Text Abbreviation program. By Output string message to the user using java data type replaceAll method.">
+      <created>1669078978233</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1669078978233</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="detect that the first character of userInput matches firstLetter" />
     <MESSAGE value="Set hasDigit to true if the 3-character passCode contains a digit." />
     <MESSAGE value="Testing conditional using ternary operator" />
     <MESSAGE value="Testing conditional statements of negative numbers." />
@@ -462,7 +475,8 @@
     <MESSAGE value="Using Array, checking char." />
     <MESSAGE value="Working with string to abbreviate input strings to the user." />
     <MESSAGE value="Output string message to the user using compareTo method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Output string message to the user using compareTo method." />
+    <MESSAGE value="Expending on previous Text Abbreviation program. By Output string message to the user using java data type replaceAll method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Expending on previous Text Abbreviation program. By Output string message to the user using java data type replaceAll method." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
