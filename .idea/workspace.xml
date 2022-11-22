@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Using Array, checking char.">
-      <change afterPath="$PROJECT_DIR$/src/cs/study_java/StringFormatting.java" afterDir="false" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Output string message to the user using compareTo method.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringFormatting">
+  <component name="RunManager" selected="Application.TextMsgAbbreviation">
     <configuration name="CaptionFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CaptionFixer" />
       <module name="MyJava_class_work" />
@@ -84,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutsideTemperatureFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.OutsideTemperatureFormatting" />
-      <module name="MyJava_class_work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs.study_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.StringFormatting" />
       <module name="MyJava_class_work" />
@@ -110,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextMsgAbbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.TextMsgAbbreviation" />
+      <module name="MyJava_class_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.study_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextMsgAbbreviation" />
         <item itemvalue="Application.StringFormatting" />
         <item itemvalue="Application.CaptionFixer" />
         <item itemvalue="Application.OutputFormatting" />
         <item itemvalue="Application.OutputCombinations" />
-        <item itemvalue="Application.OutsideTemperatureFormatting" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +408,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669077028243</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Working with string to abbreviate input strings to the user.">
+      <created>1669077741218</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1669077741218</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Output string message to the user using compareTo method.">
+      <created>1669078383985</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1669078383985</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,8 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assign secretID with firstName, a space, and lastName" />
-    <MESSAGE value="Censored words on input" />
     <MESSAGE value="detect that the first character of userInput matches firstLetter" />
     <MESSAGE value="Set hasDigit to true if the 3-character passCode contains a digit." />
     <MESSAGE value="Testing conditional using ternary operator" />
@@ -449,7 +460,9 @@
     <MESSAGE value="Compare strings and display base on alphabetical" />
     <MESSAGE value="MORE WORK!" />
     <MESSAGE value="Using Array, checking char." />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Array, checking char." />
+    <MESSAGE value="Working with string to abbreviate input strings to the user." />
+    <MESSAGE value="Output string message to the user using compareTo method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Output string message to the user using compareTo method." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
