@@ -38,6 +38,7 @@ public class CaptionFixer {
                 userCaption = userCaption.substring(0, 1).toUpperCase()
                         + userCaption.substring(1, userCaption.length());// if not make first char uppercase
         }
+
         System.out.println(userCaption);// print caption
 
     }
