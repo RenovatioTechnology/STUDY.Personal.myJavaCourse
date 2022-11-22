@@ -13,7 +13,7 @@ public class CaptionFixer {
         char ch;
         char[] lastCharArray;
         userCaption = scnr.nextLine();
-        // checking if last character contain .  or not
+        // checking if last character contain ? or not
         if (!(userCaption.endsWith(".") || userCaption.endsWith("!") || userCaption.endsWith("?")
                 || userCaption.endsWith("$"))) {
             lastChar = userCaption.substring(0, userCaption.length() - 1);
