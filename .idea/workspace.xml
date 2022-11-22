@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="MORE WORK!" />
+    <list default="true" id="b1f4f844-446d-4df0-9fba-dddd8cbb2729" name="Changes" comment="Using Array, checking char.">
+      <change afterPath="$PROJECT_DIR$/src/cs/study_java/StringFormatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CaptionFixer">
+  <component name="RunManager" selected="Application.StringFormatting">
     <configuration name="CaptionFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cs.study_java.CaptionFixer" />
       <module name="MyJava_class_work" />
@@ -94,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YearChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cs.study_java.YearChecker" />
+    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.study_java.StringFormatting" />
       <module name="MyJava_class_work" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringFormatting" />
         <item itemvalue="Application.CaptionFixer" />
         <item itemvalue="Application.OutputFormatting" />
         <item itemvalue="Application.OutputCombinations" />
         <item itemvalue="Application.OutsideTemperatureFormatting" />
-        <item itemvalue="Application.YearChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669074413061</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Using Array, checking char.">
+      <created>1669076865784</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1669076865784</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Using Array, checking char.">
+      <created>1669077028243</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1669077028243</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finding the area of a circle from the circumference" />
     <MESSAGE value="Assign secretID with firstName, a space, and lastName" />
     <MESSAGE value="Censored words on input" />
     <MESSAGE value="detect that the first character of userInput matches firstLetter" />
@@ -432,7 +448,8 @@
     <MESSAGE value="Basic function / method calling" />
     <MESSAGE value="Compare strings and display base on alphabetical" />
     <MESSAGE value="MORE WORK!" />
-    <option name="LAST_COMMIT_MESSAGE" value="MORE WORK!" />
+    <MESSAGE value="Using Array, checking char." />
+    <option name="LAST_COMMIT_MESSAGE" value="Using Array, checking char." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
