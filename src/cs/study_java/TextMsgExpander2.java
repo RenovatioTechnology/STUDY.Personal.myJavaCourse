@@ -48,5 +48,6 @@ public class TextMsgExpander2 {
             System.out.println("Expanded: " + ch);
         }
 
+        return;
     }
 }
